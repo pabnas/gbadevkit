@@ -1,0 +1,9 @@
+curso
+http://www.ianfinlayson.net/class/cpsc305/?page=class/cpsc305
+http://www.ianfinlayson.net/class/cpsc305/misc/01-compiling-linux
+
+paginas
+http://devkitadv.sourceforge.net/
+www.loirak.com/gameboy/gbatutor.php
+https://linux.gbadev.org/gcc-gba/
+http://belogic.com/gba/
